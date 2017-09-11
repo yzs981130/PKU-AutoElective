@@ -1,4 +1,5 @@
 # pku选课助手NEXT GENERATION
 
-名称暂定如上
+Developed by zhy and his friends.
 
+Modified by yzs
